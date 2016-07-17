@@ -2,9 +2,9 @@
 
 [https://careercup.com/question?id=5660887265312768](https://careercup.com/question?id=5660887265312768)
 
-List of string that represent class names in CamelCaseNotation.
+Given a list of strings that represent class names in CamelCaseNotation.
 
-Write a function that given a List and a pattern returns the matching elements.
+Write a function that, given a list and a pattern, returns the matching elements.
 
 ```
 ['HelloMars', 'HelloWorld', 'HelloWorldMars', 'HiHo']
